@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_a new language</name>
+   <tag></tag>
+   <elementGuidId>70535b77-dca6-4ffb-9b4a-1c528f7d40b4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/span/div/div[3]/label/div/div[2]/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>557564f3-8f9e-426d-ab45-170376a265c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>6fb9ac08-8b73-4d1f-889c-d8f7ca8b79a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>aDTYNe snByac OvPDhc OIC90c</value>
+      <webElementGuid>91bf1235-d4a7-4b88-bf9c-8c6425cc02b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>a new language</value>
+      <webElementGuid>04835f5d-e627-4972-9253-91e555e829ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;mG61Hd&quot;)/div[@class=&quot;RH5hzf RLS9Fe&quot;]/div[@class=&quot;lrKTG&quot;]/div[@class=&quot;o3Dpx&quot;]/div[@class=&quot;Qr7Oae&quot;]/div[1]/div[@class=&quot;geS5n&quot;]/div[@class=&quot;oyXaNc&quot;]/div[1]/div[@class=&quot;lLfZXe fnxRtf cNDBpf&quot;]/span[@class=&quot;H2Gmcc tyNBNd&quot;]/div[@class=&quot;SG0AAe&quot;]/div[@class=&quot;nWQGrd zwllIb&quot;]/label[@class=&quot;docssharedWizToggleLabeledContainer ajBQVb&quot;]/div[@class=&quot;bzfPab wFGF8&quot;]/div[@class=&quot;YEVVod&quot;]/div[@class=&quot;ulDsOb&quot;]/span[@class=&quot;aDTYNe snByac OvPDhc OIC90c&quot;]</value>
+      <webElementGuid>c02c09f0-24da-46dd-be15-dc2e88810ed7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='mG61Hd']/div[2]/div/div[2]/div[3]/div/div/div[2]/div/div/span/div/div[3]/label/div/div[2]/div/span</value>
+      <webElementGuid>19ad5101-3258-4f17-98d2-cb0e744aaa34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='playing music'])[1]/following::span[1]</value>
+      <webElementGuid>5f396735-f3e2-42ae-9002-cd9de84fa010</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='drawing'])[1]/following::span[2]</value>
+      <webElementGuid>c6aa7ca2-5d49-48d1-bebe-0c911b699f31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='a new sport activity'])[1]/preceding::span[1]</value>
+      <webElementGuid>b5a58873-2b52-449e-bb42-a0b7d52d6110</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='tax code'])[1]/preceding::span[2]</value>
+      <webElementGuid>9a04e55d-5586-4c00-a2c2-cd66269edb41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='a new language']/parent::*</value>
+      <webElementGuid>f5369e59-092d-4031-8285-aaf5765fa9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/div/div[2]/div/span</value>
+      <webElementGuid>100504af-0e70-4581-a4f0-a2727049d16a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'a new language' or . = 'a new language')]</value>
+      <webElementGuid>adc9553d-4654-44a6-b4aa-1e6a5bdb65f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

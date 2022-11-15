@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fill form at google docs:
+1. Add Name
+2. Add Email
+3. Click radio button
+4. Add link to github repository with this project</description>
+   <name>Test case</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>09a01509-4f9b-4d06-b6cf-f1d7f0997532</testCaseGuid>
+</TestCaseEntity>
